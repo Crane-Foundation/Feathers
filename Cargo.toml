@@ -1,7 +1,8 @@
 [package]
 name = "feathers"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Placeholder for Feathers package manager"
 license = "MIT"
+repository = "htts://github.com/crane-foundation/feathers"
 [dependencies]
