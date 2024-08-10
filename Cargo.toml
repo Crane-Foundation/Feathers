@@ -1,0 +1,7 @@
+[package]
+name = "feathers"
+version = "0.1.0"
+edition = "2021"
+description = "Placeholder for Feathers package manager"
+license = "MIT"
+[dependencies]
